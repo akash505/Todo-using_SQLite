@@ -11,3 +11,7 @@ add this dependencies  to gradel according to your version
     def lottieVersion = "3.4.0"
     implementation "com.airbnb.android:lottie:$lottieVersion"
 
+
+
+<a href="https://github.com/xabaras/RecyclerViewSwipeDecorator"> for swipe Decorator</a>
+
